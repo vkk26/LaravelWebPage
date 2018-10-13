@@ -16,7 +16,9 @@
 @include('includes.header')
 <div class = "container">
     @yield('content')
-
+    @include('includes.body')
+    @include('includes.connect')
+    @include('includes.footer')
 </div>
 
 </body>
