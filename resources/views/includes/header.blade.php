@@ -8,7 +8,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="https://www.deccanspice.com/">Home</a>
+                        <a class="nav-link" href="https://daccanspice.herokuapp.com/">Home</a>
 
 
                     </li><li class="nav-item ">
